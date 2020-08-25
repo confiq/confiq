@@ -1,4 +1,3 @@
-### Hi there 👋
 ![My Status](https://github-readme-stats.vercel.app/api?username=confiq&show_icons=true&theme=nord&count_private=true)
 
 ![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=confiq&show_icons=true&theme=nord&count_private=true&layout=compact)
